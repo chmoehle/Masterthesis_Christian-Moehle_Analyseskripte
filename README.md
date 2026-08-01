@@ -14,7 +14,7 @@ Ich bin kein Softwareentwickler oder Informatiker, sondern habe die Skripte als 
 
 | Repository | Beschreibung |
 |------------|--------------|
-| **SMT-100_Bodenfeuchtesensor-_Kalibrierung** | **[SMT-100_Bodenfeuchtesensor-_Kalibrierung](https://github.com/chmoehle/SMT-100_Bodenfeuchtesensor-_Kalibrierung)** | Polynomische Kalibrierung der SMT100-Bodenfeuchtesensoren der Fa. TRUEBNER einschließlich Modellvergleich, Residuenanalyse, statistischer Modellbewertung und Excel-Export. |
+| **SMT-100_Bodenfeuchtesensor-_Kalibrierung** | **[SMT-100_Bodenfeuchtesensor-_Kalibrierung](https://github.com/chmoehle/SMT-100_Bodenfeuchtesensor-_Kalibrierung)** Polynomische Kalibrierung der SMT100-Bodenfeuchtesensoren der Fa. TRUEBNER einschließlich Modellvergleich, Residuenanalyse, statistischer Modellbewertung und Excel-Export. |
 
 ---
 
