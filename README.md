@@ -22,8 +22,8 @@ Ich bin kein Softwareentwickler oder Informatiker, sondern habe die Skripte als 
 
 | Repository | Beschreibung |
 |------------|--------------|
-| **Masterthesis_Sieblinie_Substrate_Rosalia** | Auswertung der Korngrößenverteilungen einschließlich Berechnung geotechnischer Kennwerte und Darstellung kumulativer Sieblinien. |
-| **Korrelationsanalyse_Substratkennwerte_zwei-Parameter** | Pearson- und Spearman-Korrelationsanalysen zwischen ausgewählten geotechnischen und hydraulischen Materialkennwerten einschließlich automatischer Erstellung von Scatterplots. |
+| **[Masterthesis_Sieblinie_Substrate_Rosalia](https://github.com/chmoehle/Masterthesis_Sieblinie_Substrate_Rosalia)** | Auswertung der Korngrößenverteilungen einschließlich Berechnung geotechnischer Kennwerte und Darstellung kumulativer Sieblinien. |
+| **[Korrelationsanalyse_Substratkennwerte_zwei-Parameter](https://github.com/chmoehle/Korrelationsanalyse_Substratkennwerte_zwei-Parameter)** | Pearson- und Spearman-Korrelationsanalysen zwischen ausgewählten geotechnischen und hydraulischen Materialkennwerten einschließlich automatischer Erstellung von Scatterplots. |
 
 ---
 
@@ -31,7 +31,7 @@ Ich bin kein Softwareentwickler oder Informatiker, sondern habe die Skripte als 
 
 | Repository | Beschreibung |
 |------------|--------------|
-| **Masterthesis_Infiltration-Rosalia_Boxplots** | Statistische Auswertung der Infiltrationsmessungen mit Vergleich verschiedener Materialien, Spuren und Messbedingungen (mit und ohne Vorsättigung). |
+| **[Masterthesis_Infiltration-Rosalia_Boxplots](https://github.com/chmoehle/Masterthesis_Infiltration-Rosalia_Boxplots)** | Statistische Auswertung der Infiltrationsmessungen mit Vergleich verschiedener Materialien, Spuren und Messbedingungen (mit und ohne Vorsättigung). |
 
 ---
 
@@ -39,7 +39,7 @@ Ich bin kein Softwareentwickler oder Informatiker, sondern habe die Skripte als 
 
 | Repository | Beschreibung |
 |------------|--------------|
-| **Masterthesis_Tragfaehigkeit-Rosalia_Boxplot** | Statistische Auswertung und Visualisierung der Tragfähigkeitsmessungen (Evd) verschiedener Materialien, Messzeitpunkte sowie Fahr- und Mittelspuren. |
+| **[Masterthesis_Tragfaehigkeit-Rosalia_Boxplot](https://github.com/chmoehle/Masterthesis_Tragfaehigkeit-Rosalia_Boxplot)** | Statistische Auswertung und Visualisierung der Tragfähigkeitsmessungen (Evd) verschiedener Materialien, Messzeitpunkte sowie Fahr- und Mittelspuren. |
 
 ---
 
@@ -47,10 +47,10 @@ Ich bin kein Softwareentwickler oder Informatiker, sondern habe die Skripte als 
 
 | Repository | Beschreibung |
 |------------|--------------|
-| **Masterthesis_Bodenfeuchte-Rosalia_monatliche-Auswertung** | Monatliche statistische Auswertung kontinuierlicher Bodenfeuchtedaten mittels Boxplots und deskriptiver Statistik. |
-| **Masterthesis_Bodenfeuchte_Rosalia_monatliche-Unterschiede** | Berechnung und Darstellung der monatlichen Unterschiede des volumetrischen Wassergehalts zwischen Deck- und Tragschicht. |
-| **Masterthesis_Bodenfeuchte-Niederschlag_Rosalia_Einzelereignisse** | Analyse ausgewählter Niederschlagsereignisse und deren Einfluss auf den zeitlichen Verlauf der Bodenfeuchte. |
-| **Masterthesis_Niederschlag-Bodenfeuchte_Rosalia_Jahresbilanz** | Jahresübersicht des Bodenfeuchteverlaufs in Kombination mit den täglichen Niederschlagssummen. |
+| **[Masterthesis_Bodenfeuchte-Rosalia_monatliche-Auswertung](https://github.com/chmoehle/Masterthesis_Bodenfeuchte-Rosalia_monatliche-Auswertung)** | Monatliche statistische Auswertung kontinuierlicher Bodenfeuchtedaten mittels Boxplots und deskriptiver Statistik. |
+| **[Masterthesis_Bodenfeuchte_Rosalia_monatliche-Unterschiede](https://github.com/chmoehle/Masterthesis_Bodenfeuchte_Rosalia_monatliche-Unterschiede)** | Berechnung und Darstellung der monatlichen Unterschiede des volumetrischen Wassergehalts zwischen Deck- und Tragschicht. |
+| **[Masterthesis_Bodenfeuchte-Niederschlag_Rosalia_Einzelereignisse](https://github.com/chmoehle/Masterthesis_Bodenfeuchte-Niederschlag_Rosalia_Einzelereignisse)** | Analyse ausgewählter Niederschlagsereignisse und deren Einfluss auf den zeitlichen Verlauf der Bodenfeuchte. |
+| **[Masterthesis_Niederschlag-Bodenfeuchte_Rosalia_Jahresbilanz](https://github.com/chmoehle/Masterthesis_Niederschlag-Bodenfeuchte_Rosalia_Jahresbilanz)** | Jahresübersicht des Bodenfeuchteverlaufs in Kombination mit den täglichen Niederschlagssummen. |
 
 ---
 
@@ -58,7 +58,7 @@ Ich bin kein Softwareentwickler oder Informatiker, sondern habe die Skripte als 
 
 | Repository | Beschreibung |
 |------------|--------------|
-| **Masterthesis_Bodenfeuchte-Tragfaehigkeit_Rosalia_Vergleich** | Gemeinsame Auswertung von Tragfähigkeit (Evd) und Bodenfeuchte (VWC) zur Untersuchung möglicher Zusammenhänge zwischen beiden Messgrößen. |
+| **[Masterthesis_Bodenfeuchte-Tragfaehigkeit_Rosalia_Vergleich](https://github.com/chmoehle/Masterthesis_Bodenfeuchte-Tragfaehigkeit_Rosalia_Vergleich)** | Gemeinsame Auswertung von Tragfähigkeit (Evd) und Bodenfeuchte (VWC) zur Untersuchung möglicher Zusammenhänge zwischen beiden Messgrößen. |
 
 ---
 
